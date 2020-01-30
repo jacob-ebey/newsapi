@@ -10,7 +10,7 @@
  * claim to have created any of the facilities provided by NewsAPI.org.
  */
 
-const fetch = require('node-fetch'),
+const fetch = require('node-fetch').default,
   qs = require('querystring'),
   host = 'https://newsapi.org';
 
