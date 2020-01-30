@@ -1,5 +1,5 @@
 {
-  "name": "newsapi",
+  "name": "newsapi-netlify-lambda",
   "version": "2.4.0",
   "description": "A node interface for News API from newsapi.org",
   "main": "dist/index.js",
